@@ -1,0 +1,14 @@
+/Users/svage/RiderProjects/ebeveynvecocuk/ebeveynvecocuk/bin/Debug/net8.0/ebeveynvecocuk
+/Users/svage/RiderProjects/ebeveynvecocuk/ebeveynvecocuk/bin/Debug/net8.0/ebeveynvecocuk.deps.json
+/Users/svage/RiderProjects/ebeveynvecocuk/ebeveynvecocuk/bin/Debug/net8.0/ebeveynvecocuk.runtimeconfig.json
+/Users/svage/RiderProjects/ebeveynvecocuk/ebeveynvecocuk/bin/Debug/net8.0/ebeveynvecocuk.dll
+/Users/svage/RiderProjects/ebeveynvecocuk/ebeveynvecocuk/bin/Debug/net8.0/ebeveynvecocuk.pdb
+/Users/svage/RiderProjects/ebeveynvecocuk/ebeveynvecocuk/obj/Debug/net8.0/ebeveynvecocuk.GeneratedMSBuildEditorConfig.editorconfig
+/Users/svage/RiderProjects/ebeveynvecocuk/ebeveynvecocuk/obj/Debug/net8.0/ebeveynvecocuk.AssemblyInfoInputs.cache
+/Users/svage/RiderProjects/ebeveynvecocuk/ebeveynvecocuk/obj/Debug/net8.0/ebeveynvecocuk.AssemblyInfo.cs
+/Users/svage/RiderProjects/ebeveynvecocuk/ebeveynvecocuk/obj/Debug/net8.0/ebeveynvecocuk.csproj.CoreCompileInputs.cache
+/Users/svage/RiderProjects/ebeveynvecocuk/ebeveynvecocuk/obj/Debug/net8.0/ebeveynvecocuk.dll
+/Users/svage/RiderProjects/ebeveynvecocuk/ebeveynvecocuk/obj/Debug/net8.0/refint/ebeveynvecocuk.dll
+/Users/svage/RiderProjects/ebeveynvecocuk/ebeveynvecocuk/obj/Debug/net8.0/ebeveynvecocuk.pdb
+/Users/svage/RiderProjects/ebeveynvecocuk/ebeveynvecocuk/obj/Debug/net8.0/ebeveynvecocuk.genruntimeconfig.cache
+/Users/svage/RiderProjects/ebeveynvecocuk/ebeveynvecocuk/obj/Debug/net8.0/ref/ebeveynvecocuk.dll
